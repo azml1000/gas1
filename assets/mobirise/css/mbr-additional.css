@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+
 
 
 #ext_menu-3 .navbar-toggler {
@@ -19,6 +21,9 @@
 }
 #msg-box4-c .mbr-section-title DIV {
   font-size: 20px;
+}
+#form1-6 .btn {
+  font-family: 'Titillium Web', sans-serif;
 }
 
 #ext_menu-d .navbar-toggler {

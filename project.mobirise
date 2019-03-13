@@ -46,7 +46,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wwbfGc0_R0mAnwZGhKv2CKPKiK5DFIhGtox2aPF-d9RUMjE5R1FOMzZUN0ZZMlhCUkJIN1E2VU8xNy4u\" target=\"_blank\">(تسجيل الدخول (للموظفين&nbsp;</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wwbfGc0_R0mAnwZGhKv2CKPKiK5DFIhGtox2aPF-d9RUMjE5R1FOMzZUN0ZZMlhCUkJIN1E2VU8xNy4u\" target=\"_blank\">(تسجيل الدخول (للموظفين&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -62,7 +62,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">(مؤسسة عبدالرحمن العمراني&nbsp;(توريد بنزين-محروقات-لمحطات الوقود &nbsp;</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-3",
           "_styles": {
@@ -101,7 +101,7 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
@@ -191,7 +191,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"tel:966570415667\" data-toolbar=\"-mbrBtnMove\">&nbsp;يسعدنا تواصلكم على الرقم &nbsp;0570415667</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"tel:966570415667\" data-toolbar=\"-mbrBtnMove\">&nbsp;يسعدنا تواصلكم على الرقم<br>&nbsp;0570415667</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-c",
           "_styles": {
@@ -215,7 +215,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "تواصل معنا&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">إرسال</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-success mbr-iconfont mbr-iconfont-btn\"></span>إرسال</a>",
           "form": {
             "action": "aaazzzm@gmail.com",
             "alerts": {
@@ -248,7 +248,13 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-6"
+          "_anchor": "form1-6",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
         }
       ]
     },
@@ -275,7 +281,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wwbfGc0_R0mAnwZGhKv2CKPKiK5DFIhGtox2aPF-d9RUMjE5R1FOMzZUN0ZZMlhCUkJIN1E2VU8xNy4u\" target=\"_blank\">(تسجيل الدخول (للموظفين&nbsp;</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wwbfGc0_R0mAnwZGhKv2CKPKiK5DFIhGtox2aPF-d9RUMjE5R1FOMzZUN0ZZMlhCUkJIN1E2VU8xNy4u\" target=\"_blank\">(تسجيل الدخول (للموظفين&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -291,7 +297,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">(مؤسسة عبدالرحمن العمراني&nbsp;(توريد بنزين-محروقات-لمحطات الوقود &nbsp;</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
@@ -410,7 +416,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wwbfGc0_R0mAnwZGhKv2CKPKiK5DFIhGtox2aPF-d9RUMjE5R1FOMzZUN0ZZMlhCUkJIN1E2VU8xNy4u\" target=\"_blank\">(تسجيل الدخول (للموظفين&nbsp;</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wwbfGc0_R0mAnwZGhKv2CKPKiK5DFIhGtox2aPF-d9RUMjE5R1FOMzZUN0ZZMlhCUkJIN1E2VU8xNy4u\" target=\"_blank\">(تسجيل الدخول (للموظفين&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -426,7 +432,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">(مؤسسة عبدالرحمن العمراني&nbsp;(توريد بنزين-محروقات-لمحطات الوقود &nbsp;</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
