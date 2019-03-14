@@ -37,8 +37,8 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
-            "color": "#f6ffba",
+            "transparent": false,
+            "color": "#ffffff",
             "hamburgerColor": "#000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".navbar-nav .btn\" href=\"index.html#msg-box4-c\">تواصل معنا&nbsp;</a></li>",
@@ -70,9 +70,17 @@
               "color": "#000"
             },
             ".navbar-brand": {
-              "font-size": "16px",
+              "font-size": "18px",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".nav-link": {
+              "font-size": "18px"
+            },
+            ".navbar-nav .btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "14px"
             }
           }
         },
@@ -272,8 +280,8 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
-            "color": "#f6ffba",
+            "transparent": false,
+            "color": "#ffffff",
             "hamburgerColor": "#000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".navbar-nav .btn\" href=\"index.html#msg-box4-c\">تواصل معنا&nbsp;</a></li>",
@@ -304,9 +312,17 @@
               "color": "#000"
             },
             ".navbar-brand": {
-              "font-size": "16px",
+              "font-size": "18px",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".nav-link": {
+              "font-size": "18px"
+            },
+            ".navbar-nav .btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "ext_menu-d"
@@ -407,8 +423,8 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
-            "color": "#f6ffba",
+            "transparent": false,
+            "color": "#ffffff",
             "hamburgerColor": "#000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-danger-outline btn-danger\" data-app-selector=\".navbar-nav .btn\" href=\"index.html#msg-box4-c\">تواصل معنا&nbsp;</a></li>",
@@ -439,9 +455,17 @@
               "color": "#000"
             },
             ".navbar-brand": {
-              "font-size": "16px",
+              "font-size": "18px",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".nav-link": {
+              "font-size": "18px"
+            },
+            ".navbar-nav .btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "ext_menu-h"

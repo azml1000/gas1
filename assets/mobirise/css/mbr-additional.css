@@ -4,12 +4,20 @@
 
 
 
+
 #ext_menu-3 .navbar-toggler {
   color: #000;
 }
 #ext_menu-3 .navbar-brand {
-  font-size: 16px;
+  font-size: 18px;
   font-family: 'Playfair Display', sans-serif;
+}
+#ext_menu-3 .nav-link {
+  font-size: 18px;
+}
+#ext_menu-3 .navbar-nav .btn {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
 }
 #content5-b P {
   text-align: center;
@@ -26,18 +34,34 @@
   font-family: 'Titillium Web', sans-serif;
 }
 
+
 #ext_menu-d .navbar-toggler {
   color: #000;
 }
 #ext_menu-d .navbar-brand {
-  font-size: 16px;
+  font-size: 18px;
   font-family: 'Playfair Display', sans-serif;
 }
+#ext_menu-d .nav-link {
+  font-size: 18px;
+}
+#ext_menu-d .navbar-nav .btn {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
 
 #ext_menu-h .navbar-toggler {
   color: #000;
 }
 #ext_menu-h .navbar-brand {
-  font-size: 16px;
+  font-size: 18px;
   font-family: 'Playfair Display', sans-serif;
+}
+#ext_menu-h .nav-link {
+  font-size: 18px;
+}
+#ext_menu-h .navbar-nav .btn {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
 }
