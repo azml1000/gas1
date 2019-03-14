@@ -5,6 +5,13 @@
 
 
 
+#header1-j H1 {
+  font-size: 30px;
+  color: #484646;
+}
+#header1-j .btn {
+  font-size: 20px;
+}
 #ext_menu-3 .navbar-toggler {
   color: #000;
 }

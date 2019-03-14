@@ -8,13 +8,14 @@
       "styling": {},
       "additionalSetColors": [
         "#dfff00",
-        "#f6ffba"
+        "#f6ffba",
+        "#484646"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -30,11 +31,50 @@
       },
       "components": [
         {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.5"
+          },
+          "title": "اهلا وسهلا في<br>موقع مؤسسة عبدالرحمن العمراني",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">للتواصل معنا&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">اعرف المزيد عنا</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-j",
+          "_styles": {
+            "H1": {
+              "font-size": "30px",
+              "color": "#484646"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -62,7 +102,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-3",
           "_styles": {
@@ -124,7 +164,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": "0.7"
           },
-          "title": "&nbsp;متخصصون في&nbsp;<br>&nbsp; ( توريد بنزين 91 -95 - ديزل &nbsp;)<br><br> لمحطات الوقود والمصانع وشركات&nbsp;<div>وباقي المحروقات نوفرها لكم عبر أسطول النقل الخاص بمأسستنا فى الرياض والمناطق المحيطة بها\n</div><div><br></div>",
+          "title": "&nbsp;متخصصون في&nbsp;<br>&nbsp; ( توريد بنزين 91 -95 - ديزل &nbsp;)<br><br> لمحطات الوقود والمصانع وشركات&nbsp;<div>وباقي المحروقات نوفرها لكم عبر أسطول النقل الخاص بمؤسساتنا فى الرياض والمناطق المحيطة بها\n</div><div><br></div>",
           "caption": "<p><br></p>",
           "alias": "purity/components",
           "_tags": [
@@ -199,7 +239,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"tel:966570415667\" data-toolbar=\"-mbrBtnMove\">&nbsp;يسعدنا تواصلكم على الرقم<br>&nbsp;0570415667</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"tel:966598310711\" data-toolbar=\"-mbrBtnMove\">&nbsp;يسعدنا تواصلكم على الرقم<br>0598310711</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-c",
           "_styles": {
@@ -277,7 +317,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -305,7 +345,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
@@ -420,7 +460,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
@@ -448,7 +488,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
