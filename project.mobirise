@@ -86,15 +86,16 @@
           "_tags": [
             "Theme"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wwbfGc0_R0mAnwZGhKv2CKPKiK5DFIhGtox2aPF-d9RUMjE5R1FOMzZUN0ZZMlhCUkJIN1E2VU8xNy4u\" target=\"_blank\">(تسجيل الدخول (للموظفين&nbsp;</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wwbfGc0_R0mAnwZGhKv2CKPKiK5DFIhGtox2aPF-d9RUMjE5R1FOMzZUN0ZZMlhCUkJIN1E2VU8xNy4u\">(تسجيل الدخول (للموظفين&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "",
+              "link": "#top",
+              "title": "مؤسسة عبدالرحمن العمراني",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -329,20 +330,26 @@
           "_tags": [
             "Theme"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wwbfGc0_R0mAnwZGhKv2CKPKiK5DFIhGtox2aPF-d9RUMjE5R1FOMzZUN0ZZMlhCUkJIN1E2VU8xNy4u\" target=\"_blank\">(تسجيل الدخول (للموظفين&nbsp;</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wwbfGc0_R0mAnwZGhKv2CKPKiK5DFIhGtox2aPF-d9RUMjE5R1FOMzZUN0ZZMlhCUkJIN1E2VU8xNy4u\">(تسجيل الدخول (للموظفين&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "",
+              "link": "#top",
+              "title": "مؤسسة عبدالرحمن العمراني",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
@@ -472,20 +479,26 @@
           "_tags": [
             "Theme"
           ],
-          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wwbfGc0_R0mAnwZGhKv2CKPKiK5DFIhGtox2aPF-d9RUMjE5R1FOMzZUN0ZZMlhCUkJIN1E2VU8xNy4u\" target=\"_blank\">(تسجيل الدخول (للموظفين&nbsp;</a></li>",
+          "items": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=wwbfGc0_R0mAnwZGhKv2CKPKiK5DFIhGtox2aPF-d9RUMjE5R1FOMzZUN0ZZMlhCUkJIN1E2VU8xNy4u\">(تسجيل الدخول (للموظفين&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/-192x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "",
+              "link": "#top",
+              "title": "مؤسسة عبدالرحمن العمراني",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
