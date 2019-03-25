@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -242,7 +242,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"tel:966505288696\" data-toolbar=\"-mbrBtnMove\">&nbsp;يسعدنا تواصلكم على الرقم<br>0505288696</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"tel:966505288696\" data-toolbar=\"-mbrBtnMove\">مركز خدمة العملاء&nbsp;<br>0505288696</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-c",
           "_styles": {
