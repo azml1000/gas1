@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-03-07_0136",
+    "name": "gas",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -15,9 +15,11 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 20,
-    "versionPublish": "4.9.4",
-    "screenshot": "screenshot.png"
+    "uniqCompNum": 23,
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -50,7 +52,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.5"
           },
-          "title": "اهلا وسهلا بك في<br>موقع مؤسسة عبدالرحمن العمراني",
+          "title": "اهلا وسهلا بك في<br>موقع مؤسسة العمراني",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#msg-box4-c\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>للتواصل معنا&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#content5-b\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>اعرف المزيد عنا</a>",
           "alias": "purity/components",
@@ -103,7 +105,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">للنقليات- مقاولات-حفر آبار) موقع مؤسسة العمراني)</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-3",
           "_styles": {
@@ -240,7 +242,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"tel:966598310711\" data-toolbar=\"-mbrBtnMove\">&nbsp;يسعدنا تواصلكم على الرقم<br>0598310711</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"tel:966505288696\" data-toolbar=\"-mbrBtnMove\">&nbsp;يسعدنا تواصلكم على الرقم<br>0505288696</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-c",
           "_styles": {
@@ -266,7 +268,7 @@
           "title": "تواصل معنا&nbsp;",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-success mbr-iconfont mbr-iconfont-btn\"></span>إرسال</a>",
           "form": {
-            "action": "aaazzzm@gmail.com",
+            "action": "alomrani.in@gmail.com",
             "alerts": {
               "success": "شكرا لك .. سنتواصل معك قريبا"
             },
@@ -302,6 +304,35 @@
             ".btn": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "تابعونا على مواقع التواصل الاجتماعي&nbsp;",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-l",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         }
@@ -352,7 +383,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">للنقليات- مقاولات-حفر آبار) موقع مؤسسة العمراني)</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
@@ -446,7 +477,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 &nbsp; جميع الحقوق محفوظة &nbsp;لدى &nbsp;مؤسسة عبدالرحمن العمراني",
+          "text": "Copyright (c) 2019 &nbsp; جميع الحقوق محفوظة &nbsp;لدى &nbsp;مؤسسة &nbsp;العمراني",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -501,7 +532,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">موقع مؤسسة عبدالرحمن العمراني</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">للنقليات- مقاولات-حفر آبار) موقع مؤسسة العمراني)</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
@@ -536,7 +567,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 &nbsp; جميع الحقوق محفوظة &nbsp;لدى &nbsp;مؤسسة عبدالرحمن العمراني",
+          "text": "Copyright (c) 2019 &nbsp; جميع الحقوق محفوظة &nbsp;لدى &nbsp;مؤسسة &nbsp;العمراني",
           "alias": "purity/components",
           "_tags": [
             "Theme"

@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
 
 
 
@@ -39,6 +41,10 @@
 }
 #form1-6 .btn {
   font-family: 'Titillium Web', sans-serif;
+}
+#social-buttons2-l .mbr-section-title {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
 }
 
 
